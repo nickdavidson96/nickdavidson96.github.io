@@ -21,7 +21,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics and Copyright](/pdf/Ethics and Copyright.docx)
+### [Ethics and Copyright](/pdf/Ethics and Copyright.pdf)
 
 -   **Class:Survey of Scripting Languages**  
 -   **Grade: 90**
