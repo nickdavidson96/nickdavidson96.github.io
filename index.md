@@ -21,20 +21,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics and Copyright](/pdf/sample_presentation.pdf)
+### [Ethics and Copyright](/pdf/Ethics and Copyright.docx)
 
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
+-   **Class:Survey of Scripting Languages**  
+-   **Grade: 90**
 
 ---
 
