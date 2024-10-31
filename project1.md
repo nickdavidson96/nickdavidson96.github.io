@@ -41,6 +41,6 @@ Fig 3. Feedback when an error occurs.
 
 You should ensure your computer or IDE has an interpreter installed/available to be able to run the program, as well as the proper libraries installed using pip.
 
-For more details see [Web Scraping Read Me](WebscrapingREADME.md).
+For more details see [Web Scraping Read Me](WebScrapingREADME.md).
 
 [Back to Portfolio](./)
