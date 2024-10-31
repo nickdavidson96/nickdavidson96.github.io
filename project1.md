@@ -26,8 +26,6 @@ Another way to run this program is through an IDE such as Visual Studio Code , g
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
 The way to run the program below (see Fig 1), given that you have the Python extension installed in Visual Studio Code, you can press Run Python File, and the program will execute. When the Program is run, it should generate similar results (see Fig 2). If you do not have the proper libraries installed, an error will occur (see Fig 3).
 
 ![screenshot](images/runWebscraping.png)  
