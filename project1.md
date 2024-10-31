@@ -31,7 +31,7 @@ Almost every program requires user interaction, even command-line programs. Incl
 The way to run the program below (see Fig 1), given that you have the Python extension installed in Visual Studio Code, you can press Run Python File, and the program will execute. When the Program is run, it should generate similar results (see Fig 2). If you do not have the proper libraries installed, an error will occur (see Fig 3).
 
 ![screenshot](images/runWebscraping.png)  
-Fig 1. The launch screen
+Fig 1. The start screen from within Visual Studio Code 
 
 ![screenshot](images/WebscrapingResults.png)  
 Fig 2. Example output after input is processed.
