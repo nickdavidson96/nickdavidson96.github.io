@@ -11,9 +11,9 @@ WebScraping.py
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program uses Python and within it, Beautiful Soup and Requests, to scrape the Github Job site for jobs that contain Python in them.
 
-## How to compile and run the program
+## How to run the program
 
 How to run the program.
 
@@ -22,26 +22,26 @@ cd ./WebScraping.py
 python WebScraping.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Another way to run this program is through an IDE such as Visual Studio Code , given that you use pip to install bs4 from BeautifulSoup and install Python extension which allows for the interpreter to run.
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The way to run the program below (see Fig 1), given that you have the Python extension installed in Visual Studio Code, you can press Run Python File, and the program will execute. When the Program is run, it should generate similar results (see Fig 2). If you do not have the proper libraries installed, an error will occur (see Fig 3).
 
-![screenshot](images/Screenshot (2).png)  
+![screenshot](images/runWebscraping.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/WebscrapingResults.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/WebscrapingError.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+You should ensure your computer or IDE has an interpreter installed/available to be able to run the program, as well as the proper libraries installed using pip.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
