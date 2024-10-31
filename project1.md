@@ -41,6 +41,6 @@ Fig 3. Feedback when an error occurs.
 
 You should ensure your computer or IDE has an interpreter installed/available to be able to run the program, as well as the proper libraries installed using pip.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [README](WebscrapingREADME.md).
 
 [Back to Portfolio](./)
