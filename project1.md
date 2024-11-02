@@ -6,7 +6,7 @@ WebScraping.py
 -   **Class: Survey of Scripting Languages** 
 -   **Grade:90** 
 -   **Language(s):Python** 
--   **Source Code Repository:** [lab08.py](https://github.com/nickdavidson96/CSCI-301-code-repository/edit/master/lab08/lab08.py)  
+-   **Source Code Repository:** [lab08.py](https://github.com/nickdavidson96/WebScraping/blob/main/lab08.py)  
     (Please [email me](mailto:nadavidson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
