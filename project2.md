@@ -25,7 +25,7 @@ Another way to run this program is through an IDE such as Visual Studio Code , g
 
 The way to run the program below (see Fig 1) When the Program is run, it should generate similar results (see Fig 2). If you do not have the proper file location, an error will occur (see Fig 3).
 
-![screenshot](images/SnapshotRacket.png)  
+![screenshot](images/RunProgram.png)  
 Fig 1. The Dr Racket Application
 
 ![screenshot](images/RacketOutput.png)  
