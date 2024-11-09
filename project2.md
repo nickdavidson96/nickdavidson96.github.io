@@ -37,6 +37,6 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 You should ensure your computer has Dr Racket installed or the correct extensions installed within VS Code to run the program, as well as the correct file location.
-For more details see [Racket Read Me](RacketREADME.md).
+For more details see [Racket Read Me](RacketReadMe.md).
 
 [Back to Portfolio](./)
