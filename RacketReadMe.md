@@ -7,8 +7,8 @@ Lab11.Rkt
 -   **Grade: 85** 
 -   **Language(s): Racket** 
 -   **Source Code Repository:** [lab11.rkt](https://github.com/nickdavidson96/RacketRepo)
-)  
-    (Please [email me](mailto:nadavidson@csustudent.net?subject=GitHub%20Access) to request access.)
+
+  (Please [email me](mailto:nadavidson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
