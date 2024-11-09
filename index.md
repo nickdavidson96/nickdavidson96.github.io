@@ -12,7 +12,7 @@ Programming Projects
 ![Webscraping](images/WebscrapingResults.png)
 
 ---
-### [Racket Organizing | CSCI 301](project1)
+### [Racket Organizing | CSCI 301](project2)
 
 ![Organizing Files](images/SnapShotRacket.png)
 
