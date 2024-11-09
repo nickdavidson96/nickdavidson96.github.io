@@ -6,7 +6,7 @@ Lab11.Rkt
 -   **Class: Survey of Scripting Languages** 
 -   **Grade: 85** 
 -   **Language(s): Racket** 
--   **Source Code Repository:** [lab11.rkt]([![image]((https://github.com/nickdavidson96/RacketRepo/tree/main))
+-   **Source Code Repository:** [lab11.rkt](https://github.com/nickdavidson96/RacketRepo)
 )  
     (Please [email me](mailto:nadavidson@csustudent.net?subject=GitHub%20Access) to request access.)
 
