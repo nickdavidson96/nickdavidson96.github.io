@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Racket Organizing | CSCI 301](project1)
 
-![Organizing Files](SnapShotRacket.png)
+![Organizing Files](images/SnapShotRacket.png)
 
 ---
 
