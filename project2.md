@@ -25,13 +25,13 @@ Another way to run this program is through an IDE such as Visual Studio Code , g
 
 The way to run the program below (see Fig 1) When the Program is run, it should generate similar results (see Fig 2). If you do not have the proper file location, an error will occur (see Fig 3).
 
-![screenshot](images/runWebscraping.png)  
+![screenshot](images/SnapshotRacket.png)  
 Fig 1. The Dr Racket Application
 
-![screenshot](images/WebscrapingResults.png)  
+![screenshot](images/RacketOutput.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/WebscrapingError.png)  
+![screenshot](images/ErrorRacket.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
