@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Web Scraping With Python | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/WebscrapingResults.png)
+![Webscraping](images/WebscrapingResults.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Racket Organizing | CSCI 301](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Organizing Files](SnapShotRacket.png)
 
 ---
 
